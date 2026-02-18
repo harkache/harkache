@@ -1,4 +1,4 @@
-<h4 align="center">Hello, my name is João Victor, but I use “Harkache” as my online name. I'm currently 18 years old, and I've recently started my career as a front-end developer. Here I'll share my projects, people and professionals.</h4>
+<h4 align="center">Olá! Eu me chamo João Victor, sou programador back-end. Aqui, compartilharei meus projetos pessoais e/ou profissionais. Espero que gostem do que vão ver, e sejam muito bem-vindos!</h4>
 
 ###
 
